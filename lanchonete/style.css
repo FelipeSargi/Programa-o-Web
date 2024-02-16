@@ -1,0 +1,16 @@
+#tabela{
+    background-color: rgb(0, 0, 0);
+    color: white;
+}
+
+#pag{
+    background-color: blue;
+    
+}
+
+.rodape{
+    display: grid;
+    align-items: end;
+    justify-content: end;
+}
+
