@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Jacquarda+Bastarda+9&display=swap');
+
+.imagem{
+    max-height: 200px;
+    max-width: 200px;
+    min-height: 200px;
+    min-width: 200px;
+}
+
+
+
+.cont{
+    display: grid;
+    align-items: center;
+    margin: 150px;
+    padding: 10px;
+}
+
+body{
+    background-image: radial-gradient(black,black, rgb(124, 53, 238));
+    color: white;
+}
+
