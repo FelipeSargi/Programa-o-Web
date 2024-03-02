@@ -1,16 +1,15 @@
-@import url('https://fonts.googleapis.com/css2?family=Jacquarda+Bastarda+9&display=swap');
-
 .imagem{
     max-height: 200px;
     max-width: 200px;
     min-height: 200px;
     min-width: 200px;
-    box-shadow: 4px 4px 1px rgb(234, 77, 255);   
-    transition: all 10s ease-in-out;
-    border-radius: 50%;
+    transition: all ease-in-out 1s;
 }
 
-
+.imagem:hover{
+    transition: all ease-in-out 1s;
+    border-radius: 50%;
+}
 
 
 .cont{
@@ -18,7 +17,6 @@
     align-items: center;
     margin: 150px;
     padding: 10px;
-    text-shadow: 2px 2px 1px;
 }
 
 body{
